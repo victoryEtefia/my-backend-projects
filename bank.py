@@ -1,0 +1,49 @@
+person1={
+    "BANK_NAME":"ECOBANK",
+    "ACCOUNT_NUMBER":"89764532",
+    "CARD_PIN":"4423",
+    "NAME_ON_CARD":"TOM VICTOR",
+    "CARD_NUMBER":"55882244990011",
+    "CVV":"634",
+    "EXPIRY_DATE":"12/24",
+    "DEFAULT_PIN":"7557"
+
+}
+
+person2={
+    "BANK_NAME":"UNION BANK",
+    "ACCOUNT_NUMBER":"89764532",
+    "CARD_PIN":"4423",
+    "NAME_ON_CARD":"TIMOTHY ETEFIA",
+    "CARD_NUMBER":"55882244990011",
+    "CVV":"739",
+    "EXPIRY_DATE":"12/24",
+    "DEFAULT_PIN":"3366"
+
+}
+
+person3={
+    "BANK_NAME":"ACCESS BANK",
+    "ACCOUNT_NUMBER":"89764532",
+    "CARD_PIN":"4423",
+    "NAME_ON_CARD":"VICTORY ETEFIA",
+    "CARD_NUMBER":"55882244990011",
+    "CVV":"521",
+    "EXPIRY_DATE":"12/24",
+    "DEFAULT_PIN":"8899"
+
+}
+
+users=[
+    person1,
+    person2,
+    person3
+]
+
+
+
+
+
+
+
+
